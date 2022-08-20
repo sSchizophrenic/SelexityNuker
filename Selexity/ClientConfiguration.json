@@ -1,0 +1,33 @@
+{
+    "Client Settings":{
+        "Bot Authorization": "3535345",
+        "Target Guild": ""
+    },
+    "Guild Settings":{
+        "Channel Names":[
+            "Selexity-Runs-Cord",
+            "Selexity-1337",
+            "aaaaaaa",
+            "sins-was-here",
+            "gg-arsenic",
+            "CamelToe-Addiction"
+        ],
+        "Role Names":[
+            "selexity",
+            "e-sex"
+        ],
+        "Webhook Names":[
+            "Selexity",
+            "Selexity-1337",
+            "discord.gg/arsenic",
+            "PlayZ is full of clowns",
+            "sins ran me"
+        ],
+        "Webhook Content":[
+            "@everyone What Happened?!   :  Selexity/Sins, Ran You",
+            "@everyone Anal Gape Is So Hot",
+            "@everyone Selexity-1337"
+        ],
+        "Webhook Message Amount": 100
+    }
+}
